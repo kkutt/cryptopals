@@ -4,7 +4,7 @@ test cases written with [py.test].
 
 #### Status
 
- - [Set 1: Basics]: **2** / 8 challenges
+ - [Set 1: Basics]: **3** / 8 challenges
  ([set1.py], [test_set1.py])
 
 [Cryptopals]: <https://cryptopals.com/>
